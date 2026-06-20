@@ -4,7 +4,7 @@ A machine learning model that predicts whether a Titanic passenger
 survived, based on features like age, sex, ticket class, and fare.
 
 ## What I did
-- Cleaned and preprocessed real passenger data (handled missing values, 
+- Cleaned and preprocesed real passenger data (handled missing values, 
   encoded categorical features)
 - Split data into training and testing sets
 - Trained a Random Forest Classifier using scikit-learn
